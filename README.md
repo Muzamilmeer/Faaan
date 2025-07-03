@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=0.40" />
   <title>Bandipora Fish Valley</title>
   <meta name="description" content="Order fresh trout, fingerlings & rainbow trout from Bandipora's premium trout farm.">
   <meta name="keywords" content="Bandipora fish, trout fish, rainbow trout, fingerlings, fish farm">
